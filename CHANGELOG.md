@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/enisdenjo/graphql-sse/compare/v2.6.0...v2.6.1) (2026-08-25)
+
+
+### Bug Fixes
+
+* add support for graphql 17 ([#127](https://github.com/enisdenjo/graphql-sse/issues/127)) ([4caa9fb](https://github.com/enisdenjo/graphql-sse/commit/4caa9fbceb8f2e7a2040f60779ffbeb6f8557203)), closes [#126](https://github.com/enisdenjo/graphql-sse/issues/126)
+
 # [2.6.0](https://github.com/enisdenjo/graphql-sse/compare/v2.5.4...v2.6.0) (2025-10-22)
 
 
